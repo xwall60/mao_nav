@@ -33,7 +33,7 @@
       <!-- Logo区域 -->
       <div class="logo-section">
         <img src="/logo.png" alt="logo" class="logo" />
-        <h1 class="site-title">{{ title || '猫猫导航' }}</h1>
+        <h1 class="site-title">{{ title || '导航' }}</h1>
       </div>
 
       <!-- 分类导航 -->
@@ -186,8 +186,8 @@
           <footer class="page-footer" hidden="true">
             <div class="footer-content">
               <div class="footer-info">
-                <h3>{{ title || '猫猫导航' }}</h3>
-                <p>一个简洁、美观的导航网站，收录优质网站资源</p>
+                <h3>{{ title || '导航' }}</h3>
+                <p>一个导航网站</p>
               </div>
 
               <div class="footer-links">
